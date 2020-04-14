@@ -1,0 +1,30 @@
+{
+  "groups": [{
+    "name": "demo",
+    "type": "com.zk.myspringboot_003.ConfigBean",
+    "sourceType": "com.zk.myspringboot_003.ConfigBean"
+  }],
+  "properties": [
+    {
+      "name": "demo.age",
+      "type": "java.lang.String",
+      "sourceType": "com.zk.myspringboot_003.ConfigBean"
+    },
+    {
+      "name": "demo.login",
+      "type": "java.util.Map<java.lang.String,java.lang.String>",
+      "sourceType": "com.zk.myspringboot_003.ConfigBean"
+    },
+    {
+      "name": "demo.name",
+      "type": "java.lang.String",
+      "sourceType": "com.zk.myspringboot_003.ConfigBean"
+    },
+    {
+      "name": "demo.urls",
+      "type": "java.util.List<java.lang.String>",
+      "sourceType": "com.zk.myspringboot_003.ConfigBean"
+    }
+  ],
+  "hints": []
+}

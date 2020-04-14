@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Implementation-Title: myspringBoot_003
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: Administrator
+Implementation-Vendor-Id: com.zk.myspringboot_003
+Build-Jdk: 1.8.0_66
+Implementation-URL: http://projects.spring.io/spring-boot/myspringBoot
+ _003/
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+
